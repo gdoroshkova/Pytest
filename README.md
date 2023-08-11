@@ -1,4 +1,5 @@
 Precondition: 
+
 	1. SQL Server Management Studio 19 is installed
 	2. Script for TRN db is executed in SQL Server MS
 	3. Python is installed
